@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter book 1",
+      "author": "J.K.Rowling "
+    },
+    {
+      "id": 2,
+      "title": "Harry Potter book 2",
+      "author": "J.K.Rowling "
+    },
+    {
+      "title": "Harry Potter book 3",
+      "author": "J.K",
+      "id": 3
+    }
+  ]
+}
